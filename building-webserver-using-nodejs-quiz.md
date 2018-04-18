@@ -10,6 +10,6 @@
 a. All the statements are true
 b. I, II
 c. II, IV
-d. IV
+d. IV`
 
 ### 
