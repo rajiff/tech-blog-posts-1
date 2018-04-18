@@ -7,9 +7,9 @@
     III. Only one machine is enough to handle the request, we can scale it vertically.
     IV. Multiple machines sitting behind a load balancer is required, we scale it horizontally.
 
-a. All the statements are true
-b. I, II
-c. II, IV
-d. IV`
+    a. All the statements are true
+    b. I, II
+    c. II, IV
+    d. IV
 
 ### 
